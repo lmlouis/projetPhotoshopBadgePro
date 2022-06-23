@@ -1,0 +1,8 @@
+Nom	Prenom	Tel	Fonction	Photo	Email
+WORA SOUAMY	Louis Martin	065 25 43 27	Stagiaire en Geni Informatique	louis.png	louiswora1@gmail.com
+TOURI	Grass	066 98 56 17	Agent Communication	grass.jpg	gtouri27@gmail.com
+OBORI 	Romaric Orphé	066 68 78 13 	Stagiaire en Genie Informatique	romaric.jpg	oboriromaric@gmail.com
+MABOUBA TSINGA	Rolls Aubert	065 46 28 05	Stagiaire en Réseau Informatique	rolls.jpg	rollstsinga80@gmail.com
+ALIMBI WABENIGNI	Priska	066 66 42 45	Sécretaire Burautique	priska.jpg	priskaalimbi@gmail.com
+EYEBE LENDOYE	Karl Max J	062 92 62 41	Directeur Général Fondateur	karl.jpg	eyebekarljunior@gmail.com
+KIE Epse BALIMOYE	Jenna yesmine	077 45 70 56	Chargé de communication	yesmine.jpg	Chrisyasmopagnie@gmail.com
